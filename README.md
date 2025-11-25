@@ -6,9 +6,9 @@
 
 🧪 Quality Assurance Skills
 
- Manual Testing (functional, exploratory, regression)
+* Manual Testing (functional, exploratory, regression)
 
- Test Case Design & Execution
+* Test Case Design & Execution
 
  Bug Reporting & Tracking (Jira)
 
