@@ -1,40 +1,40 @@
 👋 Hi, I'm Yasmin 
 
-Junior QA Analyst | Manual Testing | API Testing | SQL | Python
+ Junior QA Analyst | Manual Testing | API Testing | SQL | Python
 
-I'm a Junior QA Analyst trained through a specialized bootcamp, where I developed practical experience in manual testing, API testing with Postman, SQL queries, bug reporting in Jira, Python fundamentals, browser inspection with DevTools, and test automation with Selenium. My previous background in SEO and digital analysis strengthens my attention to detail, structured thinking, and understanding of user behavior — skills I apply directly in quality assurance and system investigation.
+ I'm a Junior QA Analyst trained through a specialized bootcamp, where I developed practical experience in manual testing, API testing with Postman, SQL queries, bug reporting in Jira, Python fundamentals, browser inspection with DevTools, and test automation with Selenium. My previous background in SEO and digital analysis strengthens my attention to detail, structured thinking, and understanding of user behavior — skills I apply directly in quality assurance and system investigation.
 
 🧪 Quality Assurance Skills
 
-Manual Testing (functional, exploratory, regression)
+ Manual Testing (functional, exploratory, regression)
 
-Test Case Design & Execution
+ Test Case Design & Execution
 
-Bug Reporting & Tracking (Jira)
+ Bug Reporting & Tracking (Jira)
 
-API Testing with Postman
+ API Testing with Postman
 
-SQL for validation and data checks
+ SQL for validation and data checks
 
-Web testing with DevTools
+ Web testing with DevTools
 
-Introduction to Automation (Selenium + Python)
+ Introduction to Automation (Selenium + Python)
 
-Critical Thinking & Problem-Solving
+ Critical Thinking & Problem-Solving
 
 🛠️ Tools & Technologies
 
-Testing: Jira, Postman, Selenium
+ Testing: Jira, Postman, Selenium
 
-Development: Python (basics), Git/GitHub, PyCharm
+ Development: Python (basics), Git/GitHub, PyCharm
 
-Web Analysis: Chrome DevTools
+ Web Analysis: Chrome DevTools
 
-Databases: SQL (basics)
+ Databases: SQL (basics)
 
-Documentation: Notion, Google Workspace
+ Documentation: Notion, Google Workspace
 
-Design: Figma (basics)
+ Design: Figma (basics)
 
 📂 Featured Projects
 
@@ -48,7 +48,7 @@ Design: Figma (basics)
 
 💬 About Me
 
-I'm passionate about understanding how systems behave, identifying edge cases, and ensuring consistent quality across digital experiences. I combine structured testing methods with an analytical mindset shaped by years of working with digital platforms.
+ I'm passionate about understanding how systems behave, identifying edge cases, and ensuring consistent quality across digital experiences. I combine structured testing methods with an analytical mindset shaped   by years of working with digital platforms.
 
 📫 Let’s Connect
 
