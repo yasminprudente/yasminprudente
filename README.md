@@ -3,9 +3,9 @@
   **Junior QA Analyst | Manual Testing | API Testing | SQL | Python**
 
  I'm a Junior QA Analyst trained through a specialized bootcamp, where I developed practical experience in **manual testing, API testing with Postman, SQL queries, bug reporting in Jira, Python fundamentals, browser inspection with DevTools, and test automation with Selenium**. 
- My previous background in **SEO and digital analysis** strengthens my attention to detail, structured thinking, and understanding of user behavior — skills I apply directly in quality assurance and system investigation.
+ My previous background in **SEO and digital analysis** strengthens my attention to detail, structured thinking, and understanding of user behavior — skills I apply directly in quality assurance and system investigation.<br><br>
 
-
+ 
 🧪 **Quality Assurance Skills**
 
 * Manual Testing (functional, exploratory, regression)
