@@ -22,7 +22,7 @@
 
 * Introduction to Automation (Selenium + Python)
 
-* Critical Thinking & Problem-Solving
+* Critical Thinking & Problem-Solving<br><br>
 
 
 🛠️ **Tools & Technologies**
@@ -37,7 +37,7 @@
 
 * Documentation: Notion, Google Workspace
 
-* Design: Figma (basics)
+* Design: Figma (basics)<br><br>
 
 
 📂 **Featured Projects**
@@ -48,12 +48,12 @@
 
 🗄️ SQL Query Practice Exercises validating data, filtering, joins, and debugging application-side inconsistencies.
 
-🤖 Selenium + Python Automation Study Repo: Simple automated tests showcasing first steps with Selenium WebDriver.
+🤖 Selenium + Python Automation Study Repo: Simple automated tests showcasing first steps with Selenium WebDriver.<br><br>
 
 
 💬 **About Me**
 
- I’m passionate about understanding how systems behave, identifying edge cases, and ensuring reliable digital experiences. I value structured testing, curiosity, and continuous learning.
+ I’m passionate about understanding how systems behave, identifying edge cases, and ensuring reliable digital experiences. I value structured testing, curiosity, and continuous learning.<br><br>
 
 
 📫 **Let’s Connect**
